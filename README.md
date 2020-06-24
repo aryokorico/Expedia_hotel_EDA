@@ -1,4 +1,4 @@
-# Expedia Hotel Data Analysis
+# Expedia Hotel
 
 Hi there! I use the Expedia Hotel dataset competition with an approach of marketing analytics 
 
