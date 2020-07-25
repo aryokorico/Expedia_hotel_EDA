@@ -11,6 +11,7 @@ https://www.kaggle.com/c/expedia-hotel-recommendations/data
 - Macro economics
 - Market segmentation
 - Advertising campaign
+- Marketing strategy
 
 Thank you for checking in and any feedbacks are welcomed.
 
