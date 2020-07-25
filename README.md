@@ -13,7 +13,7 @@ https://www.kaggle.com/c/expedia-hotel-recommendations/data
 - Advertising campaign
 - Marketing strategy
 
-Thank you for checking in and any feedbacks are welcomed.
+Thank you for checking Expedia_EDA.ipynb in and any feedbacks are welcomed.
 
 
 Cheers!
